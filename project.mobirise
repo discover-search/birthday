@@ -19,8 +19,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "버스타는날, 버스데이",
+        "meta_descr": "생일? 그게 뭔데",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
